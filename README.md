@@ -4,8 +4,8 @@
 
 ## Success Test
 ![Imgur](https://imgur.com/z3tCMqW.jpg)
-![Imgur](https://imgur.com/HDiOZ5N.jpg)
+![Imgur](https://imgur.com/hrj1VkL.jpg)
 
 ## Failed Test
-![Imgur](https://imgur.com/53elJ9g.jpg)
+![Imgur](https://imgur.com/HDiOZ5N.jpg)
 ![Imgur](https://imgur.com/eI0MUnb.jpg)
